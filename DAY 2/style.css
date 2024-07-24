@@ -1,0 +1,15 @@
+body{
+    background-image: url("https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w600/2023/10/free-images.jpg");
+    background-size:cover;
+    m
+}
+fieldset{
+    background-color: aqua;
+    opacity: 30%;
+}
+legend{
+    text-align: center;
+}
+.a{
+    height: 75px;
+}

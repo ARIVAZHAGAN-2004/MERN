@@ -1,0 +1,8 @@
+.a{
+    display: flex;
+}
+div>div{
+    border: 1px solid grey;
+    padding: 10px;
+   margin-left: 10px;
+}
