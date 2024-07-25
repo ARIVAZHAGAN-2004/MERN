@@ -1,0 +1,38 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <style>
+            div{
+                height: 100px;
+                width: 100px;
+                background-color: blue;
+                transition-property: transform width height;
+                transition-duration: 1s;
+                position: relative;
+                animation-name: ariv;
+                animation-duration: 1s;
+                animation-name: 2s;
+                position: relative;
+            }
+            @keyframes ariv{
+                from{
+                background-color: aquamarine;
+                }
+                to{
+                    background-color: beige;
+                }
+
+            }
+            div:hover{
+                transform: rotate(180deg);
+                width: 500px;
+                height: 500px;
+                
+            }
+
+        </style>`
+    </head>
+    <body>
+        <div></div>
+    </body>
+</html>
